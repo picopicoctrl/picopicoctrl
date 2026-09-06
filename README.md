@@ -84,8 +84,8 @@
   * **[Digital Inventory Web App](https://thetradingpost.vercel.app)** — Interactive product catalog for digital items for a game.
   * **[Digital ID Card](https://picopicoctrl.github.io/mei-idcard)** — Custom digital card made with HTML and CSS.
   * **[Weather-Plant Game](https://picopicoctrl.github.io/mei-idcard/project.html)** — Integrated weather API data with game mechanics and pixel art assets.
-  * **ClrSpot** — View and manage live available seats in the school library in real time.
-  * **Lost & Found Web App** — Digitalized system to track lost items on campus.
+  * **ClirSpot** — View and manage live available seats in the school library in real time. (link soon!)
+  * **Lost & Found Web App** — Digitalized system to track lost items on campus. (link soon!)
 </details>
 
 <br clear="all" />
