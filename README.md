@@ -1,20 +1,26 @@
 <p align="center">
   ⋆.————————————————ᯓ★————————————————⋆.˚
 </p>
+
 <p align="center">
   <img src="./banner.jpg" width="70%" alt="Header Banner" />
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-readme">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vcenter=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vcenter=true&width=435&lines=Welcome+to+my+profile!;Still+learning+%26+figuring+things+out;Developing+my+tech+skills!" alt="Typing SVG" />
   </a>
 </p>
 
-<img align="right" src="./maxwell.gif" width="220" alt="Spinning Earth Gif" />
+<p align="right">
+  <img src="./maxwell.gif" width="180" align="right" alt="Maxwell Cat" />
+</p>
 
 I'm an **IT Student** who is **still figuring things out, constantly learning, and actively developing my skills** in the tech world! 
 
-I enjoy experimenting with code, exploring different paths in software, and building small projects as I learn. My primary focus right now is consistency and growth.
+I enjoy experimenting with code, exploring different paths in software, and building practical applications as I learn. My primary focus right now is consistency and growth.
+
+<br clear="all" />
 
 ---
 
@@ -41,18 +47,24 @@ I enjoy experimenting with code, exploring different paths in software, and buil
   <img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
 </p>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svvIWwpVYz/giphy.gif" width="220" alt="Pixel Art Island Gif" />
+---
+
+<p align="right">
+  <img src="./nerd.gif" width="180" align="right" alt="Nerd Emoji" />
+</p>
+
+###  Featured Projects
+<details>
+  <summary>｡𖦹°‧ CLICK MEᵎᵎ</summary>
+  <br>
+
+*  **[Digital Inventory Web App](https://thetradingpost.vercel.app)** — Interactive product catalog for digital items for a game.
+*  **ClrSpot** — View and manage live available seats in the school library in real time.
+*  **Lost & Found Web App** — Digitalized system to track lost items on campus.
+*  **[Digital ID Card](https://picopicoctrl.github.io/mei-idcard)** — Custom digital card made with HTML and CSS.
+*  **[Weather-Plant Game](https://picopicoctrl.github.io/mei-idcard/project.html)** — Integrated weather API data with game mechanics and pixel art assets.
+
+<br clear="all" />
 
 ---
 
-### Projects
-
-<details>
-  <summary>Show Detailed Project Breakdown</summary>
-  <br>
-  *  **Digital Inventory Web App** — Simple Interactive product catalog for digital items for a game. https://thetradingpost.vercel.app
-  * **ClirSpot** — View and manage live available seats and reservations in the school library in real time.
-  * **Lost & Found Web App** — Digitalized system to track lost items on campus.
-  * **Digital ID Card** — Custom digital card made with HTML and CSS. - https://picopicoctrl.github.io/mei-idcard
-  * **Weather-Plant Game** — Integrated weather API data with game mechanics and pixel art assets.- https://picopicoctrl.github.io/mei-idcard/project.html
-</details>
