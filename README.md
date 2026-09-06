@@ -12,59 +12,80 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="./maxwell.gif" width="180" align="right" alt="Maxwell Cat" />
+<div align="center">
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⣶⣶⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⣴⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣵⣄⠀⠀⠀
+⠀⠀⢾⣻⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⡀⠀
+⠀⠸⣽⣻⠃⣿⡿⠋⣉⠛⣿⣿⣿⣿⣿⣿⣿⣿⣏⡟⠉⡉⢻⣿⡌⣿⣳⡥⠀
+⠀⢜⣳⡟⢸⣿⣷⣄⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⣠⣼⣿⣇⢸⢧⢣⠀
+⠀⠨⢳⠇⣸⣿⣿⢿⣿⣿⣿⣿⡿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠀⡟⢆⠀
+⠀⠀⠈⠀⣾⣿⣿⣼⣿⣿⣿⣿⡀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣽⣿⣿⠐⠈⠀⠀
+⠀⢀⣀⣼⣷⣭⣛⣯⡝⠿⢿⣛⣋⣤⣤⣀⣉⣛⣻⡿⢟⣵⣟⣯⣶⣿⣄⡀⠀
+⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣾⣶⣶⣴⣾⣿⣿⣿⣿⣿⣿⢿⣿⣿⣧
+⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⡿
+</pre>
+</div>
+
+<p>
+  <img src="./maxwell.gif" width="300" align="right" alt="Maxwell Cat" />
+  I'm an <b>IT Student</b> who is <b>still figuring things out, constantly learning, and actively developing my skills</b> in the tech world!
 </p>
 
-I'm an **IT Student** who is **still figuring things out, constantly learning, and actively developing my skills** in the tech world! 
+<p>
+  I enjoy experimenting with code, exploring different paths in software, and building practical applications as I learn. My primary focus right now is consistency and growth.
+</p>
 
-I enjoy experimenting with code, exploring different paths in software, and building practical applications as I learn. My primary focus right now is consistency and growth.
+<div>
+  
+<p>
+  ⋆.————————————————ᯓ★————————————————⋆.
+</p>
+
+  <b>Languages & Web Dev</b>
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </p>
+
+  <b>Deployment & Backend</b>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </p>
+
+  <b>Design & Art Tools</b>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+    <img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
+  </p>
+</div>
 
 <br clear="all" />
 
----
-
-**Languages & Web Dev**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  ⋆.—————————————————————————————ᯓ★—————————————————————————————⋆.
 </p>
 
-**Deployment & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+<div>
+  <img src="./nerd.gif" width="300" align="right" alt="Nerd Emoji" />
 
-**Design & Art Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
-  <img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
-</p>
-
----
-
-<p align="right">
-  <img src="./nerd.gif" width="180" align="right" alt="Nerd Emoji" />
-</p>
-
-###  Featured Projects
-<details>
-  <summary>｡𖦹°‧ CLICK MEᵎᵎ</summary>
+  ### Featured Projects
+ <details open>
+  <summary>｡𖦹°‧ᵎᵎ</summary>
   <br>
 
-*  **[Digital Inventory Web App](https://thetradingpost.vercel.app)** — Interactive product catalog for digital items for a game.
-*  **ClrSpot** — View and manage live available seats in the school library in real time.
-*  **Lost & Found Web App** — Digitalized system to track lost items on campus.
-*  **[Digital ID Card](https://picopicoctrl.github.io/mei-idcard)** — Custom digital card made with HTML and CSS.
-*  **[Weather-Plant Game](https://picopicoctrl.github.io/mei-idcard/project.html)** — Integrated weather API data with game mechanics and pixel art assets.
+  * **[Digital Inventory Web App](https://thetradingpost.vercel.app)** — Interactive product catalog for digital items for a game.
+  * **[Digital ID Card](https://picopicoctrl.github.io/mei-idcard)** — Custom digital card made with HTML and CSS.
+  * **[Weather-Plant Game](https://picopicoctrl.github.io/mei-idcard/project.html)** — Integrated weather API data with game mechanics and pixel art assets.
+  * **ClrSpot** — View and manage live available seats in the school library in real time.
+  * **Lost & Found Web App** — Digitalized system to track lost items on campus.
+</details>
 
 <br clear="all" />
-
----
-
