@@ -43,7 +43,7 @@
   ⋆.————————————————ᯓ★————————————————⋆.
 </p>
 
-  <b>Languages & Web Dev</b>
+  <b>Languages & Web Dev:</b>
   <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </p>
 
-  <b>Deployment & Backend</b>
+  <b>Deployment & Backend:</b>
   <p align="left">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -59,13 +59,19 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </p>
 
-  <b>Design & Art Tools</b>
+  <b>Design & Art Tools:</b>
   <p align="left">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
     <img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
   </p>
 </div>
+
+  <b>Badges:</b>
+  <p align="left">
+    <a href = "https://www.credly.com/badges/657d73d2-e763-4fc5-8feb-5d2ac990d5ea/public_url"><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" /></a>
+</div>
+
 
 <br clear="all" />
 
