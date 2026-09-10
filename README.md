@@ -69,7 +69,7 @@
 
   <b>Badges:</b>
   <p align="left">
-    <a href = "https://www.credly.com/badges/657d73d2-e763-4fc5-8feb-5d2ac990d5ea/public_url"><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" /></a>
+    <a href = ""><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" /></a>
 </div>
 
 
