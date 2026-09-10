@@ -67,17 +67,17 @@
   </p>
 </div>
 
-  <b>Badges:</b>
+ <details>
+  <summary>Badges:</summary>
+  <br>
   <p align="left">
-    <a href = ""><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" width="100" /></a>
-    <a href = ""><img src="./introduction-to-cybersecurity.png" alt=" introduction to cybersecurity cisco badge" width="100" /></a>
+    <a href = ""><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" width="85" /></a>
+    <a href = ""><img src="./introduction-to-cybersecurity.png" alt=" introduction to cybersecurity cisco badge" width="85" /></a>
   </p>
+</details>
 
 </div>
-
-
 <br clear="all" />
-
 <p align="center">
   ⋆.—————————————————————————————ᯓ★—————————————————————————————⋆.
 </p>
