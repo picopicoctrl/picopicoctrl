@@ -69,7 +69,10 @@
 
   <b>Badges:</b>
   <p align="left">
-    <a href = ""><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" /></a>
+    <a href = ""><img src="./prompt-like-an-engineer.png" alt="Prompt like an engineer cisco badge" width="100" /></a>
+    <a href = ""><img src="./introduction-to-cybersecurity.png" alt=" introduction to cybersecurity cisco badge" width="100" /></a>
+  </p>
+
 </div>
 
 
